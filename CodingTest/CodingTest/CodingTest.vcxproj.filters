@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\queue">
       <UniqueIdentifier>{84aa1313-46d9-4e97-9c10-7421134f6bcb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\해시">
+      <UniqueIdentifier>{ab75dc32-9723-4666-9a56-761aec1149f5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="큐 연습.cpp">
@@ -26,6 +29,9 @@
     </ClCompile>
     <ClCompile Include="기능개발.cpp">
       <Filter>소스 파일\queue</Filter>
+    </ClCompile>
+    <ClCompile Include="해시 연습.cpp">
+      <Filter>소스 파일\해시</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

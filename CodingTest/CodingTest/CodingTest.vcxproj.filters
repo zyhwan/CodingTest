@@ -30,7 +30,10 @@
     <ClCompile Include="기능개발.cpp">
       <Filter>소스 파일\queue</Filter>
     </ClCompile>
-    <ClCompile Include="해시 연습.cpp">
+    <ClCompile Include="두 개의 수로 특정 값 만들기.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 해싱을 이용한 검색 함수 만들기.cpp">
       <Filter>소스 파일\해시</Filter>
     </ClCompile>
   </ItemGroup>

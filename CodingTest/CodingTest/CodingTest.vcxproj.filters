@@ -36,7 +36,10 @@
     <ClCompile Include="문자열 해싱을 이용한 검색 함수 만들기.cpp">
       <Filter>소스 파일\해시</Filter>
     </ClCompile>
-    <ClCompile Include="3번 문제.cpp">
+    <ClCompile Include="완주하지 못한 선수.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="영어 끝말잇기.cpp">
       <Filter>소스 파일\해시</Filter>
     </ClCompile>
   </ItemGroup>

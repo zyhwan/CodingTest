@@ -45,5 +45,8 @@
     <ClCompile Include="전화번호 목록.cpp">
       <Filter>소스 파일\해시</Filter>
     </ClCompile>
+    <ClCompile Include="할인 행사.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
